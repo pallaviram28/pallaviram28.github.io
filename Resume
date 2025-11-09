@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+
+<div>
+<h3>Student Ambassador<br>University of East London (Jul 2023 – Jul 2024)</h3>
+<ul>
+<li>Represented UEL at campus events, induction programmes, and graduation ceremonies.</li>
+<li>Assisted prospective students with university admissions and support queries.</li>
+</ul>
+</div>
+
+
+<div>
+<h3>IT Support Specialist<br>DXC Technology, India (Nov 2020 – Mar 2023)</h3>
+<ul>
+<li>Provided troubleshooting and technical support across enterprise IT environments.</li>
+<li>Deployed and configured Citrix VDI for improved remote work efficiency.</li>
+<li>Led training sessions for technical support engineers.</li>
+</ul>
+</div>
+</div>
+</section>
+
+
+<section class="section" id="education">
+<h2>Education</h2>
+<p><strong>Masters in Artificial Intelligence and Robotics</strong> — University of East London (2023 – 2024)</p>
+<p><strong>Bachelor of Computer Science Engineering</strong> — Acharya Institute of Graduate Studies, India (2017 – 2020)</p>
+</section>
+
+
+<section class="section" id="skills">
+<h2>Technical Skills</h2>
+<ul>
+<li>Networking & Security: TCP/IP, VPN, DHCP, DNS, Cisco Networking</li>
+<li>Programming: Python, Java, C++, C</li>
+<li>Tools & Platforms: ServiceNow, ITIL, Dynamics 365, SCCM, Intune</li>
+<li>Operating Systems: Windows, Linux, MacOS, VMware</li>
+<li>Databases & Analytics: SQL, Power BI, SITS</li>
+</ul>
+</section>
+
+
+<section class="section" id="certifications">
+<h2>Certifications</h2>
+<ul>
+<li>AI Fundamentals Certification (DataCamp)</li>
+<li>Cisco Certified Network Associate</li>
+<li>AWS Certified Solutions Architect</li>
+<li>Python Selenium Certification</li>
+<li>Microsoft MS-900 | AZ-900</li>
+</ul>
+</section>
+
+
+</div> <!-- end main content -->
+</div> <!-- end layout container -->
+
+
+<section class="section" id="contact">
+<h2>Contact</h2>
+<p>Location: London, United Kingdom</p>
+</section>
+
+
+<footer>
+© 2025 | Professional Profile of Pallavi Ramakrishnaiah
+</footer>
+
+
+</body>
+</html>
